@@ -1,18 +1,22 @@
 ## Hi, there! This is Ted's Storage!
 
-### I am,
-- Backend Developer
+### I,
+- majored in accounting(B.A.).	  (2007-2016)
+- served Staff Sergeant in Korea. (for 40 months)
+- 've been to New Zealand(WHV).	  (2013-2014)
+- worked Accountant in CA, USA.   (A/P part, for 42 months)
+- am Backend Developer. 	  (1st.Nov.'21 ~ )
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive)](https://github.com/Ted0527/wecode_projects_achive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive)](https://github.com/Ted0527/wecode_projects_achive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive)](https://github.com/Ted0527/wecode_projects_achive)
+### And I,
+- enjoy communications any kind of.
+- respect any opinions, any persons.
+- am always considerate of others.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
+## Repogitories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive&theme=dark)](https://github.com/Ted0527/wecode_projects_achive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=DjangoRestFramework&theme=dark)](https://github.com/Ted0527/DjangoRestFramework)
+
 
 
 ## Skills
