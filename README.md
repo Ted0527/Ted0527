@@ -3,7 +3,17 @@
 ### I am,
 - Backend Developer
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=github-readme-stats)](https://github.com/Ted0527/wecode_projects_achive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive)](https://github.com/Ted0527/wecode_projects_achive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive)](https://github.com/Ted0527/wecode_projects_achive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive)](https://github.com/Ted0527/wecode_projects_achive)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 ## Skills
 [![Python Badge](https://img.shields.io/badge/-Python-yellow?style=plastic&logo=python&logoColor=white)](https://www.python.org/) 
