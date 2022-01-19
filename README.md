@@ -14,15 +14,19 @@
 
 
 ## Repositories
+
+<div align=center>
+	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive&theme=dark)](https://github.com/Ted0527/wecode_projects_achive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=DjangoRestFramework&theme=dark)](https://github.com/Ted0527/DjangoRestFramework)
 
+</div>
 
 
 
 
 ## Skills
-[![Python Badge](https://img.shields.io/badge/-Python-yellow?style=plastic&logo=python&logoColor=white)](https://www.python.org/) 
+[![Python Badge](https://img.shields.io/badge/-Python-grey?style=plastic&logo=python&logoColor=white)](https://www.python.org/) 
 [![Django Badge](https://img.shields.io/badge/-Django-%23092E20?style=plastic&logo=django)](https://docs.djangoproject.com/en/4.0/) 
 [![DRF Badge](https://img.shields.io/badge/-DRF-%23FF0000?style=plastic&logo=django)](https://www.django-rest-framework.org/) 
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
