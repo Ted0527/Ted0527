@@ -43,15 +43,7 @@
   
 </div>
 
-<br>
 
-<div align=center>
-  
-  <a href="https://github.com/devxb/CommitCombo">
-	  <img src="http://commitcombo.com/theme/norank/?user=Ted0527&theme=RoyalBlack-mini"/>
-  </a>
-  
-</div>
 
 <br>
 
