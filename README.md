@@ -13,9 +13,11 @@
 - am always considerate of others.
 
 
-## Repogitories
+## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive&theme=dark)](https://github.com/Ted0527/wecode_projects_achive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=DjangoRestFramework&theme=dark)](https://github.com/Ted0527/DjangoRestFramework)
+
+
 
 
 
