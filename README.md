@@ -27,7 +27,7 @@
 
 <div align=center>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=wecode_projects_achive&theme=dark)](https://github.com/Ted0527/All_Projects_Archive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=All_Projects_Archive&theme=dark)](https://github.com/Ted0527/All_Projects_Archive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=DjangoRestFramework&theme=dark)](https://github.com/Ted0527/DjangoRestFramework)
 
 </div>
