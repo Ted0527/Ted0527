@@ -26,7 +26,7 @@
 <div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 0px; margin-bottom: 0px;" />	</div>
 </div>
 <br>
-
+<!-- 
 ## Repositories
 
 <div align=center>
@@ -38,7 +38,7 @@
 
 <br>
 
-
+ -->
 ## ETC
 
 <div align=center>
