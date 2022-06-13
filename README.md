@@ -26,19 +26,8 @@
 <div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 0px; margin-bottom: 0px;" />	</div>
 </div>
 <br>
-<!-- 
-## Repositories
 
-<div align=center>
-	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=All_Projects_Archive&theme=dark)](https://github.com/Ted0527/All_Projects_Archive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ted0527&repo=DjangoRestFramework&theme=dark)](https://github.com/Ted0527/DjangoRestFramework)
 
-</div>
-
-<br>
-
- -->
 ## ETC
 
 <div align=center>
